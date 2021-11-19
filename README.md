@@ -1,2 +1,1 @@
-# Tindog
-A pure Bootstrap(5) implementation.
+TinDog Starting Files
